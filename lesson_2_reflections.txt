@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+creating .git hidden file to track all my changes on the files inside the directories.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
