@@ -3,3 +3,4 @@ creating .git hidden file to track all my changes on the files inside the direct
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+How do the diagrams help you visualize the branch structure?
